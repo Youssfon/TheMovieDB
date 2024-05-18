@@ -62,7 +62,7 @@ function App() {
       <div className="header">
         <nav className="nav">
           <h2>
-            <a href="index.html">
+            <a href="https://Youssfon.github.io/TheMovieDB">
               You<span>Movie</span>
             </a>
           </h2>
