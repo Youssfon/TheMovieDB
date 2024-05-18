@@ -228,7 +228,6 @@ form button {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: .5rem;
     margin: .1rem;
   }
 
